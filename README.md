@@ -16,6 +16,8 @@ Refer [NodeJS Downloads](https://nodejs.org/en/download/) to download NodeJS for
 
 # Running the automation suite
 
+##Clone the project from GitHUB using command : git clone https://github.com/f-hansie/LoyaltyCypressAssessment.git
+
 ```javascript
 
 /* First, Install the needed packages */
