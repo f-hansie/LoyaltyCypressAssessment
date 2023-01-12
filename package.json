@@ -1,0 +1,14 @@
+{
+  "name": "flybuysuiautomation",
+  "version": "1.0.0",
+  "description": "test flybuys application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hansie Maphanga",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
